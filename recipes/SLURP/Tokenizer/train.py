@@ -50,5 +50,5 @@ if __name__ == "__main__":
         },
     )
 
-    # Train tokenizer
+    # Train tokenizer: speechbrain.tokenizers.SentencePiece.SentencePiece
     hparams["tokenizer"]()
